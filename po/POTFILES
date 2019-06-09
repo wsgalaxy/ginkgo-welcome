@@ -1,0 +1,7 @@
+data/org.ginkgo.welcome.desktop.in
+data/org.ginkgo.welcome.appdata.xml.in
+data/org.ginkgo.welcome.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

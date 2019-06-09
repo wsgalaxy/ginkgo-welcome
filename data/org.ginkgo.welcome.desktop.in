@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ginkgo_welcome
+Exec=ginkgo_welcome
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
